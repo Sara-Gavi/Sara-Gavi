@@ -1,6 +1,6 @@
 # ✨ Welcome to my humble tech world! ✨
 
-Hi! I'm Sara and I love enjoying life. I intertwine the digital and technological world to have freedom of movement and to develop my creativity, nature and body for self-care, and a social vision to guide my actions.
+Hi! I'm Sara **Junior Full Stack Developer** and I love enjoying life. I intertwine the digital and technological world to have freedom of movement and to develop my creativity, nature and body for self-care, and a social vision to guide my actions.
 
 ## Why Web Development?
 
@@ -14,11 +14,11 @@ Hi! I'm Sara and I love enjoying life. I intertwine the digital and technologica
 
 🌱 I'm **learning** and **developing** more projects to **expand my skills** and **create beautiful experiences**
 
+## Let's Connect! 
+📧 Email: [sara.gavilan.castro@gmail.com](mailto:sara.gavilan.castro@gmail.com){:target="_blank"}  
+🔗 LinkedIn: [saragavilan](https://www.linkedin.com/in/saragavilan/){:target="_blank"}
 
-
-
-
-It's a great start for me and an exciting experience and future choice �
+It's a great start for me and an exciting experience and future choice 🚀
 
 <!--
 **Sara-Gavi/Sara-Gavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
