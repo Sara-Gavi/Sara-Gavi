@@ -15,8 +15,8 @@ Hi! I'm Sara **Junior Full Stack Developer** and I love enjoying life. I intertw
 🌱 I'm **learning** and **developing** more projects to **expand my skills** and **create beautiful experiences**
 
 ## Let's Connect! 
-📧 Email: <a href="mailto:sara.gavilan.castro@gmail.com" target="_blank">sara.gavilan.castro@gmail.com</a>  
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/saragavilan/" target="_blank">saragavilan</a>
+📧 Email: [sara.gavilan.castro@gmail.com](mailto:sara.gavilan.castro@gmail.com) (Right-click and open in a new tab/window)  
+🔗 LinkedIn: [saragavilan](https://www.linkedin.com/in/saragavilan/) (Right-click and open in a new tab/window)
 
 It's a great start for me and an exciting experience and future choice 🚀
 
