@@ -11,7 +11,7 @@ Hi! I'm Sara **Junior Full Stack Developer** and I love enjoying life. Weaving t
 - 🤝 I want to grow as a professional in technology and as a person in dynamic and committed environments.
 
 ## Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mysql,postman,mongodb,git,github,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,nodejs,express,mysql,postman,mongodb,git,github,vscode&theme=light)](https://skillicons.dev)
 
 🌱 I'm **learning** and **developing** more projects to **expand my skills** and **create beautiful experiences**
 
