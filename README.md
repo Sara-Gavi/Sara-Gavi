@@ -1,14 +1,13 @@
 # ✨ Welcome to my humble tech world! ✨
 
-Hi! I'm Sara **Junior Full Stack Developer** and I love enjoying life. Weaving the digital world and technology to develop my creativity and enjoy the freedom of movement, nature and sports for self-care, and a social vision to guide my actions.
+I'm a junior developer building my technical profile by combining web development with analytical thinking — guided by creativity and purpose.
 
-## Why Web Development?
+- 💻 Trained in JavaScript, React, Node.js, and Git  
+- 📊 Currently learning Python and data analysis to explore smarter, more sustainable, and human-centered solutions  
+- 🌍 I believe in technology as a tool for social progress and meaningful impact  
+- 🏃‍♀️ I come from the world of sports and team management, and I bring values like discipline, resilience, and communication into tech  
 
-- 🌟 Curiosity and creativity are key in exploring new technologies.
-- 🧠 Enjoying solving challenges, where coding feels like solving a mystery.
-- 🌍 Technology helps society grow and improve by making things more efficient.
-- 🌳 Caring about the environment and making technologies that help protect it.
-- 🤝 I want to grow as a professional in technology and as a person in dynamic and committed environments.
+Let’s build things that matter!
 
 ## Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,nodejs,express,mysql,postman,mongodb,git,github,vscode&theme=light)](https://skillicons.dev)
@@ -20,18 +19,3 @@ Hi! I'm Sara **Junior Full Stack Developer** and I love enjoying life. Weaving t
 🔗 LinkedIn: [saragavilan](https://www.linkedin.com/in/saragavilan/) (Right-click and open in a new tab/window)
 
 It's a great start for me and an exciting experience and future choice 🚀
-
-<!--
-**Sara-Gavi/Sara-Gavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
