@@ -3,7 +3,7 @@
 I'm a junior developer building my technical profile by combining web development with analytical thinking — guided by creativity and purpose.
 
 - 💻 Trained in JavaScript, React, Node.js, and Git  
-- 📊 Currently learning Python and data analysis to explore smarter, more sustainable, and human-centered solutions  
+- 📊 Currently learning Python and analytical thinking to explore smarter, more sustainable, and human-centered solutions.  
 - 🌍 I believe in technology as a tool for social progress and meaningful impact  
 - 🏃‍♀️ I come from the world of sports and team management, and I bring values like discipline, resilience, and communication into tech  
 
