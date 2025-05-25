@@ -1,6 +1,6 @@
 # ✨ Welcome to my humble tech world! ✨
 
-I'm a junior developer building my technical profile by combining web development with analytical thinking — guided by creativity and purpose.
+I'm a junior developer building my technical profile by combining web development with analytical thinking - guided by creativity and purpose.
 
 - 💻 Trained in JavaScript, React, Node.js, and Git  
 - 📊 Currently learning Python and analytical thinking to explore smarter, more sustainable, and human-centered solutions.  
